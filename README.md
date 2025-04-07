@@ -1,0 +1,1 @@
+Code for analysis published in: Ayoubkhani D, Bermingham C, Pouwels KB, et al. Trajectory of long covid symptoms after covid-19 vaccination: community based cohort study. _BMJ_ 2022;377:e069676. doi: 10.1136/bmj-2021-069676
